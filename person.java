@@ -30,8 +30,7 @@ public class person {
     @Override
     public String toString() {
         return "person [sid=" + sid + ", sname=" + sname + ", sgender=" + sgender + ", getSid()=" + getSid()
-                + ", getSname()=" + getSname() + ", getSgender()=" + getSgender() + ", getClass()=" + getClass()
-                + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
+                + ", getSname()=" + getSname() + ", getSgender()=" + getSgender() +"]";
     }
     
 
